@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: email_attachment
+    database: email_attachment
+    tables:
+      - name: attachment
